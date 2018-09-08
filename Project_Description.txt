@@ -1,3 +1,5 @@
-Property&Lease App
+//Property&Lease App
 
-This tool will help users to store information of all contracts connected with Lease&Property, which will consequently be used for monthy closing and daily work (optimized payments schedule, different reports, validation options)
+This tool will help users to store information of all contracts connected with Lease&Property, 
+which will consequently be used for monthy closing and daily work 
+(optimized payments schedule, different reports, validation options)
